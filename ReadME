@@ -1,1 +1,11 @@
+How can I ensure that my code, program, or software is functional and secure?
 
+Before this class I would answer that question with trial and error. Now my perspective has shifted to include software testing. Software testing circumvents the trial and error process and includes avenues to approach each component, method, and interaction of them with tests that can confirm or deny that they were written with in the guidlines and requirements set by either myself or a potential client. Additionally, software tests can show how much of the written code was covered by the tests. This provides a metric to the tester that informs them how much of the program may be untouched by their testing approach. 
+
+How do I interpret user needs and incorporate them into a program?
+
+Interpreting the users needs and incorporating into a program can begin before the actual coding has started. Taking each of the users needs a software tester can extrapolate several tests that can aid the development of the program. Understanding the possible inputs or interactions that could be given as a user is essential to determining the correct tests to run. Whether it be an accident or malicious, the tests run should cover as many items to check without monopolizing the testing and taking away from actual development. From the requirements or users needs a tester can determine at least two tests to run on each component and method - valid or invlaid. At the minimum this allows the tester to understand how the program should run, and how the program will behave should an invalid parameter or call be passed.  
+
+How do I approach designing software?
+
+I hope to approach designing software by applying testing techniques early in the software’s life cycle. That way I can try to identify defects earlier to allow time to understand the defects’ root cause and review it for alignment with the design documentation or requirements. Otherwise I would run the risk of a defect discovered late in the development process or even after release where an error was present in the design documentation. It comes down to the developer ensuring that the program will perform as it was meant to and can handle issues that may arise. This can improve the quality of program in a shorter timeframe than trial and error or live user interactions that identify these issues.
